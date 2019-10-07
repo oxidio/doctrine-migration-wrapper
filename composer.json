@@ -3,6 +3,11 @@
   "replace": {
     "oxid-esales/oxideshop-doctrine-migration-wrapper": "self.version"
   },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.x-dev"
+    }
+  },
   "description": "OXID eShop database migrations using doctrine",
   "license": "GPL-3.0-only",
   "require": {
